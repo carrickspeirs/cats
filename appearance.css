@@ -1,0 +1,21 @@
+.comicalHeader
+{
+color:blue;
+font-family:"Comic Sans MS";
+}
+
+.redtext
+{
+color:red
+}
+
+.redtext:hover
+{
+	color:green;
+	background:black;
+}
+
+span
+{
+	font-size:50px;
+}
